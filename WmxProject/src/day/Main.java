@@ -1,5 +1,5 @@
 package day;
-//777+666
+//555
 public class Main {
 
 }
